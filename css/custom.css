@@ -1,0 +1,68 @@
+/* --- 通用样式 --- */
+
+/* Banner样式 */
+.topGroup .todayCard::after {
+  box-shadow: none;
+}
+
+/* 首行缩进 */
+#article-container p {
+  text-indent: 2em;
+}
+
+/* 按钮修复 */
+.topGroup .banner-button {
+  width: auto;
+}
+
+/* 按钮修复 */
+.author-content-item .card-content .banner-button-group .banner-button {
+  width: auto;
+}
+
+/* 信封标题 */
+.pace-done .page-title {
+  display: none;
+}
+
+/* 信封圆角 */
+#envelope img {
+  border-radius: 0;
+}
+
+#article-container > blockquote > p {
+  text-indent: 0;
+}
+
+@media screen and (max-width: 768px) 
+{
+  #essay_page > div.author-content.author-content-item.essayPage.single > div > div.banner-button-group > a > i {
+    background: transparent;
+  }
+  #album > div.author-content.author-content-item.album.single > div > div.banner-button-group > a > i {
+    background: transparent;
+  }
+  #album_detail .author-content-item .card-content .banner-button-group .banner-button i, .author-content-item .card-content .banner-button-group .banner-button svg {
+    background: transparent;
+  }
+}
+
+
+#album .author-content.author-content-item{
+  background-size: 100%;
+  animation: '';
+  background: url(https://files.sunguoqi.com/images/202311261523905.webp) left 28% / cover no-repeat;;
+}
+
+/* --- 深色模式 --- */
+
+[data-theme="dark"] {
+  --font-color: #f7f7fa;
+}
+
+/* 去除 Banner 背景 */
+[data-theme="dark"] #random-banner {
+  background: none;
+}
+
+/* --- 浅色模式 --- */

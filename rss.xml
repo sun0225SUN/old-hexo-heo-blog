@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>小孙同学</title>
+    <link>https://blog.sunguoqi.com/</link>
+    
+    <image>
+      <url>https://blog.sunguoqi.com/icon.png</url>
+      <title>小孙同学</title>
+      <link>https://blog.sunguoqi.com/</link>
+    </image>
+    
+    <atom:link href="https://blog.sunguoqi.com/rss.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>👨‍💻 前端小学生 (use Vue)｜摄影爱好者（尼康佬）｜🛸 旅行探索家（体验派）｜🚴 骑行蹭风选手（Java 鱼雷 6-top）｜🍎 科技产品发烧友（苹果&amp;小米）✨ 路虽远行则将至，事虽难做则必成。热爱可抵岁月漫长。山高路远，独善其身，看世界，也找自己。希望能成为一个有趣的人～</description>
+    <pubDate>Sat, 09 Dec 2023 07:52:41 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>关于个人独立博客，我的折腾和思考</title>
+      <link>https://blog.sunguoqi.com/posts/9f4f8f84.html</link>
+      <guid>https://blog.sunguoqi.com/posts/9f4f8f84.html</guid>
+      <pubDate>Sat, 09 Dec 2023 07:00:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;blockquote&gt;
+&lt;p&gt;我是一名 bloger，在生命的长河里，记录点滴成长，留下点</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.sunguoqi.com/categories/%E7%A8%8B%E5%BA%8F%E4%BA%BA%E7%94%9F/">程序人生</category>
+      
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E5%8D%9A%E5%AE%A2/">博客</category>
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E6%88%90%E9%95%BF/">成长</category>
+      
+      
+      <comments>https://blog.sunguoqi.com/posts/9f4f8f84.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Oh My Posh | Windows Terminal 美化指南</title>
+      <link>https://blog.sunguoqi.com/posts/3eb6a074.html</link>
+      <guid>https://blog.sunguoqi.com/posts/3eb6a074.html</guid>
+      <pubDate>Fri, 14 Jul 2023 18:41:10 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;作为一名”爱码士”，那必然是爱屋及乌，简洁清爽的 IDE 主题，赏心悦目的代码配色，逼格拉满的 Terminal 终端，极致丝滑的码字体验，总是让人欲罢不能。&lt;/p&gt;
+&lt;p&gt;在 Windows 系统中，我们最常使用的 Shell 工具莫过于 PowerShell</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.sunguoqi.com/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/">实用教程</category>
+      
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E7%BE%8E%E5%8C%96/">美化</category>
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E7%BB%88%E7%AB%AF/">终端</category>
+      
+      
+      <comments>https://blog.sunguoqi.com/posts/3eb6a074.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>小孙同学 の 第二大脑正在施工中 。。。</title>
+      <link>https://blog.sunguoqi.com/posts/e7213992.html</link>
+      <guid>https://blog.sunguoqi.com/posts/e7213992.html</guid>
+      <pubDate>Sat, 25 Mar 2023 18:41:07 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;搬砖摸鱼逛 Github 时，无意间发现了此仓库。&lt;/p&gt;
+&lt;p&gt;&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.sunguoqi.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/">学习笔记</category>
+      
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E5%A4%96%E8%84%91/">外脑</category>
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E5%AD%A6%E4%B9%A0/">学习</category>
+      
+      
+      <comments>https://blog.sunguoqi.com/posts/e7213992.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>奔跑在自己的时区里，你好哇，我的22岁！</title>
+      <link>https://blog.sunguoqi.com/posts/abe837db.html</link>
+      <guid>https://blog.sunguoqi.com/posts/abe837db.html</guid>
+      <pubDate>Sat, 25 Feb 2023 04:39:12 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;div style=&quot;text-align: center; text-indent: 0&quot;&gt;
+
+&lt;h2&gt;再见，校园&lt;/h2&gt;
+
+  &lt;p&gt;23 考研尘埃落定,有人积极准备复试,有人匆忙投放简历。&lt;/p&gt;
+ </description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.sunguoqi.com/categories/%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90/">生日快乐</category>
+      
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E7%94%9F%E6%97%A5/">生日</category>
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E6%84%9F%E6%82%9F/">感悟</category>
+      
+      <category domain="https://blog.sunguoqi.com/tags/22%E5%B2%81/">22岁</category>
+      
+      
+      <comments>https://blog.sunguoqi.com/posts/abe837db.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>让面试官眼前一亮，手把手带你打造个性化的 GitHub 首页</title>
+      <link>https://blog.sunguoqi.com/posts/f3b61b38.html</link>
+      <guid>https://blog.sunguoqi.com/posts/f3b61b38.html</guid>
+      <pubDate>Sun, 29 Jan 2023 16:00:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;blockquote&gt;
+&lt;p&gt;代码可以不会敲，但是逼格一定要高。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;不知从何时起，我发现自己&lt;strong&gt;花里胡哨&lt;/strong&gt;的本领是越来越强了。&lt;/p&gt;
+&lt;p&gt;看看俺滴主页 &lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.sunguoqi.com/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/">实用教程</category>
+      
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E7%83%AD%E9%97%A8/">热门</category>
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      <category domain="https://blog.sunguoqi.com/tags/GitHub/">GitHub</category>
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E7%BE%8E%E5%8C%96/">美化</category>
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E7%B2%BE%E9%80%89/">精选</category>
+      
+      
+      <comments>https://blog.sunguoqi.com/posts/f3b61b38.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>快速上手，教你如何将 ChatGPT 接入到微信公众号</title>
+      <link>https://blog.sunguoqi.com/posts/e78a2007.html</link>
+      <guid>https://blog.sunguoqi.com/posts/e78a2007.html</guid>
+      <pubDate>Sat, 28 Jan 2023 16:00:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;成果演示&quot;&gt;&lt;a href=&quot;#成果演示&quot; class=&quot;headerlink&quot; title=&quot;成果演示&quot;&gt;&lt;/a&gt;成果演示&lt;/h2&gt;&lt;h3 id=&quot;基础问答&quot;&gt;&lt;a href=&quot;#基础问答&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.sunguoqi.com/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/">实用教程</category>
+      
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E5%BC%80%E5%8F%91/">开发</category>
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E7%83%AD%E9%97%A8/">热门</category>
+      
+      <category domain="https://blog.sunguoqi.com/tags/AI/">AI</category>
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <comments>https://blog.sunguoqi.com/posts/e78a2007.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>请接受像“屎”一样的开始</title>
+      <link>https://blog.sunguoqi.com/posts/1db87a14.html</link>
+      <guid>https://blog.sunguoqi.com/posts/1db87a14.html</guid>
+      <pubDate>Thu, 26 Jan 2023 18:19:45 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;为什么我又把公众号给清空了&quot;&gt;&lt;a href=&quot;#为什么我又把公众号给清空了&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.sunguoqi.com/categories/%E7%94%9F%E6%B4%BB%E9%9A%8F%E7%AC%94/">生活随笔</category>
+      
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E8%BF%90%E8%90%A5/">运营</category>
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E5%85%AC%E4%BC%97%E5%8F%B7/">公众号</category>
+      
+      
+      <comments>https://blog.sunguoqi.com/posts/1db87a14.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>再见，2022！你好，2023！</title>
+      <link>https://blog.sunguoqi.com/posts/84b12bae.html</link>
+      <guid>https://blog.sunguoqi.com/posts/84b12bae.html</guid>
+      <pubDate>Wed, 25 Jan 2023 18:19:41 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;&lt;strong&gt;在文章的开头，先祝各位朋友新春快乐，兔年大吉，学业有成，工作顺心，万事胜意🎉&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;不知不觉，今天已经正月初五了。&lt;/p&gt;
+&lt;p&gt;按原计划，本文应该在年前完成，但却未能如愿。&lt;/p&gt;
+&lt;p&gt;似乎 22</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.sunguoqi.com/categories/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/">年终总结</category>
+      
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E6%84%9F%E6%82%9F/">感悟</category>
+      
+      
+      <comments>https://blog.sunguoqi.com/posts/84b12bae.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>使用 Flask 快速构建豆瓣图书/电影海报 WebAPI</title>
+      <link>https://blog.sunguoqi.com/posts/defe59e4.html</link>
+      <guid>https://blog.sunguoqi.com/posts/defe59e4.html</guid>
+      <pubDate>Mon, 09 Jan 2023 13:41:10 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;新年新气象，最近一直在折腾新博客，准备好好装修一番。&lt;/p&gt;
+&lt;p&gt;在 &lt;a href=&quot;https://gh.sunguoqi.com/books&quot;&gt;旧站&lt;/a&gt;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.sunguoqi.com/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/">实用教程</category>
+      
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E5%BC%80%E5%8F%91/">开发</category>
+      
+      <category domain="https://blog.sunguoqi.com/tags/Flask/">Flask</category>
+      
+      
+      <comments>https://blog.sunguoqi.com/posts/defe59e4.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>人生 21 岁，版本更新日志</title>
+      <link>https://blog.sunguoqi.com/posts/83dcefb7.html</link>
+      <guid>https://blog.sunguoqi.com/posts/83dcefb7.html</guid>
+      <pubDate>Thu, 24 Feb 2022 16:00:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;&lt;strong&gt; -【重构】对人生方向进行了重写，励志做一名优秀的程序猿。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; -【优化】摒弃了一些不必要的圈子，结识了更多志同道合的朋友。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.sunguoqi.com/categories/%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90/">生日快乐</category>
+      
+      
+      <category domain="https://blog.sunguoqi.com/tags/21%E5%B2%81/">21岁</category>
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E7%94%9F%E6%97%A5/">生日</category>
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E6%84%9F%E6%82%9F/">感悟</category>
+      
+      
+      <comments>https://blog.sunguoqi.com/posts/83dcefb7.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>2021 年终总结 &amp;&amp; 关于我自学爬虫的点滴经历</title>
+      <link>https://blog.sunguoqi.com/posts/e78a2006.html</link>
+      <guid>https://blog.sunguoqi.com/posts/e78a2006.html</guid>
+      <pubDate>Thu, 30 Dec 2021 16:00:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;blockquote&gt;
+&lt;p&gt;当你真心想做一件事情的时候，全世界都会帮你！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.sunguoqi.com/categories/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/">年终总结</category>
+      
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/">年终总结</category>
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB/">网络爬虫</category>
+      
+      <category domain="https://blog.sunguoqi.com/tags/%E5%A5%BD%E7%89%A9%E6%8E%A8%E8%8D%90/">好物推荐</category>
+      
+      
+      <comments>https://blog.sunguoqi.com/posts/e78a2006.html#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
