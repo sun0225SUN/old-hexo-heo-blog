@@ -1,6 +1,6 @@
 /* --- 通用样式 --- */
 
-/* Banner样式 */
+/* Banner 样式 */
 .topGroup .todayCard::after {
   box-shadow: none;
 }
@@ -34,24 +34,63 @@
   text-indent: 0;
 }
 
-@media screen and (max-width: 768px) 
-{
-  #essay_page > div.author-content.author-content-item.essayPage.single > div > div.banner-button-group > a > i {
+@media screen and (max-width: 768px) {
+  #essay_page
+    > div.author-content.author-content-item.essayPage.single
+    > div
+    > div.banner-button-group
+    > a
+    > i {
     background: transparent;
   }
-  #album > div.author-content.author-content-item.album.single > div > div.banner-button-group > a > i {
+  #album
+    > div.author-content.author-content-item.album.single
+    > div
+    > div.banner-button-group
+    > a
+    > i {
     background: transparent;
   }
-  #album_detail .author-content-item .card-content .banner-button-group .banner-button i, .author-content-item .card-content .banner-button-group .banner-button svg {
+  #album_detail
+    .author-content-item
+    .card-content
+    .banner-button-group
+    .banner-button
+    i,
+  .author-content-item .card-content .banner-button-group .banner-button svg {
     background: transparent;
   }
 }
 
+#about-page > div:nth-child(7) > div.about-statistic.author-content-item > div > div.banner-button-group > a > i {
+  background: transparent;
+}
 
-#album .author-content.author-content-item{
+#about-page > div:nth-child(11) > div.author-content-item.like-music > div > div.banner-button-group > a > i{
+  background: transparent;
+}
+
+#album .author-content.author-content-item {
   background-size: 100%;
-  animation: '';
-  background: url(https://files.sunguoqi.com/images/202311261523905.webp) left 28% / cover no-repeat;;
+  animation: "";
+  background: url(https://files.sunguoqi.com/images/202311261523905.webp) left
+    28% / cover no-repeat;
+}
+
+
+.author-content-item.game-yuanshen::after{
+  /* -webkit-box-shadow: none; */
+  -webkit-box-shadow: 0 -69px 203px 11px #000000 inset
+}
+#about-page .about-statistic::after{
+  -webkit-box-shadow: 0 -69px 203px 11px #000000 inset
+}
+.author-content-item.like-music::after{
+  box-shadow: none;
+}
+
+.reward-list-item .reward-list-item-money{
+  background: #f2b94b;
 }
 
 /* --- 深色模式 --- */
