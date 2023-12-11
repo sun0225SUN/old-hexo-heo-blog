@@ -60,11 +60,11 @@
     
     
     <entry>
-      <title>小孙同学 の 第二大脑正在施工中 。。。</title>
+      <title>小孙同学 の 第二大脑正在施工中。。。</title>
       <link href="/posts/e7213992/"/>
       <url>/posts/e7213992/</url>
       
-        <content type="html"><![CDATA[<p>搬砖摸鱼逛 Github 时，无意间发现了此仓库。</p><p><a href="https://github.com/WindrunnerMax/EveryDay">https://github.com/WindrunnerMax/EveryDay</a></p><p><img src="https://files.sunguoqi.com/images/202311250059760.webp"></p><p>该仓库记录了博主从 <code>2020.02.25</code> 至今的学习历程，在对博主深感敬佩的同时，其 <code>Readme.md</code> 中有这样一句话，让我深有感触。</p><blockquote><p>如果只学习而不记录点什么那基本就等于白学了</p></blockquote><p>我将该句话换了一种方式进行表达。</p><blockquote><p>任何没有经过自己大脑处理过的知识永远都不可能真正属于你</p></blockquote><p>学习是人的天性。</p><p>我们每个人，每天都在进行着大量的学习行为。（请注意，不要把这里的“学习”狭隘的理解为在学校里上课。）</p><p>无论是被动的、主动的还是无意识的学习，当我们对其进行一定的抽象后，你会发现它们都遵循一个最简单的逻辑。</p><p><img src="https://files.sunguoqi.com/images/202311250100850.webp"></p><p>在信息时代，我们每天都会接收到无比庞大的信息，但究竟哪些信息真正内化成了我们自己的知识呢？</p><p>我觉得我们应该好好梳理一下。。。</p><h2 id="构建自己的第二大脑"><a href="#构建自己的第二大脑" class="headerlink" title="构建自己的第二大脑"></a>构建自己的第二大脑</h2><p>“第二大脑” 又称之为 “数字大脑” 或 “外脑” ，它是一种数字化的信息载体。</p><p>你可以将其理解为是一套知识管理系统的实体，那什么是知识管理系统呢？</p><p><a href="https://mp.weixin.qq.com/s/z05Ec23oN2BwYxT-eb8G0Q">https://mp.weixin.qq.com/s/z05Ec23oN2BwYxT-eb8G0Q</a></p><p>这里给大家推荐一篇文章，该文章按照黄金圈法则，详尽阐述了</p><ul><li>What：什么是知识管理系统？</li><li>Why：为什么要构建一套知识管理系统？</li><li>How：如何构建我们的知识管理系统？</li></ul><img width="360" src="https://files.sunguoqi.com/images/202311250109543.webp"><h2 id="在人工智能时代谋生存"><a href="#在人工智能时代谋生存" class="headerlink" title="在人工智能时代谋生存"></a>在人工智能时代谋生存</h2><p>近期，随着 chatGPT 的爆火，人工智能再次引起人们的广泛关注。</p><p>人工智能会取代人类嘛？</p><p><img src="https://files.sunguoqi.com/images/202311250112211.webp"></p><p>和人类学习行为类似，机器学习也同样遵循<code>输入信息</code>——<code>处理信息</code>——<code>输出信息</code>这套最简单的逻辑</p><p>但和人类不同的是，计算机可以存储海量的信息，而人类永远无法做到这一点。</p><p>我们不禁好奇，计算机是如何存储以及管理海量信息的？</p><p>抛开机器的物理属性，我们从逻辑层面来思考这个问题。</p><p>学过《数据结构》这门课程的同学肯定会对下面这张图比较熟悉。</p><img width="200" src="https://files.sunguoqi.com/images/202311250101788.webp"><p>是的，这是常规链表中的一个结点。</p><p>值得大家注意的是，该结点不仅包含一个数据域，还包含一个指针域。</p><p>因为数据往往并不是孤立存在的。</p><p>如果我们以线性的方式将数据组织起来，它会变成下面这个样子。</p><p><img src="https://files.sunguoqi.com/images/202311250102444.webp"></p><p>在现实生活中，当我们遇到一个非常复杂的问题时，我们通常会将其拆分成若干个子问题进行分析。</p><p>数据也是如此，它应该具备相应的层级。</p><p><img src="https://files.sunguoqi.com/images/202311250109107.webp"></p><p>虽然我们对问题进行了拆分，但其子问题也很可能相互关联，所以在层级的基础上，我们还应保障子问题的关联性。</p><img width="500" src="https://files.sunguoqi.com/images/202311250113437.webp"><p>将海量信息关联在一起，看似无序，实则有序，计算机对信息管理的方式远远超过人类。</p><p>在存储信息这一层面，人类永远无法战胜机器，但或许我们根本没必要战胜。</p><p>我们应该清楚的认识到，人脑擅长的是思考和建立连接，而并非存储。</p><p>我们的大脑更像是一个CPU，而非硬盘。而 “第二大脑” 的存在就像是给人脑外接了一个硬盘。</p><p>在大数据与人工智能时代，在人脑和人工智能较量的时代，或许还存在一个中间态，那就是<code>人脑+第二大脑</code></p><h2 id="小孙同学-の-第二大脑"><a href="#小孙同学-の-第二大脑" class="headerlink" title="小孙同学 の 第二大脑"></a>小孙同学 の 第二大脑</h2><p>站点： <a href="https://brain.sunguoqi.com/">https://brain.sunguoqi.com/</a></p><p>源码： <a href="https://github.com/sun0225SUN/Brain">https://github.com/sun0225SUN/Brain</a></p><p><img src="https://files.sunguoqi.com/images/202311250103611.webp"></p><p><code>2023.03.24</code>，我搭建了该网站，日后，它会不断更新我的所学及产出。</p><p>从无序到有序，从碎片化到结构化，从输入到输出，当知识完整的经过了你的大脑，那我想他会永远属于你！</p>]]></content>
+        <content type="html"><![CDATA[<p>搬砖摸鱼逛 Github 时，无意间发现了此仓库。</p><p><a href="https://github.com/WindrunnerMax/EveryDay">https://github.com/WindrunnerMax/EveryDay</a></p><p><img src="https://files.sunguoqi.com/images/202311250059760.webp"></p><p>该仓库记录了博主从 <code>2020.02.25</code> 至今的学习历程，在对博主深感敬佩的同时，其 <code>Readme.md</code> 中有这样一句话，让我深有感触。</p><blockquote><p>如果只学习而不记录点什么那基本就等于白学了</p></blockquote><p>我将该句话换了一种方式进行表达。</p><blockquote><p>任何没有经过自己大脑处理过的知识永远都不可能真正属于你</p></blockquote><p>学习是人的天性。</p><p>我们每个人，每天都在进行着大量的学习行为。（请注意，不要把这里的“学习”狭隘的理解为在学校里上课。）</p><p>无论是被动的、主动的还是无意识的学习，当我们对其进行一定的抽象后，你会发现它们都遵循一个最简单的逻辑。</p><p><img src="https://files.sunguoqi.com/images/202311250100850.webp"></p><p>在信息时代，我们每天都会接收到无比庞大的信息，但究竟哪些信息真正内化成了我们自己的知识呢？</p><p>我觉得我们应该好好梳理一下。。。</p><h2 id="构建自己的第二大脑"><a href="#构建自己的第二大脑" class="headerlink" title="构建自己的第二大脑"></a>构建自己的第二大脑</h2><p>“第二大脑”又称之为“数字大脑”或“外脑” ，它是一种数字化的信息载体。</p><p>你可以将其理解为是一套知识管理系统的实体，那什么是知识管理系统呢？</p><p><a href="https://mp.weixin.qq.com/s/z05Ec23oN2BwYxT-eb8G0Q">https://mp.weixin.qq.com/s/z05Ec23oN2BwYxT-eb8G0Q</a></p><p>这里给大家推荐一篇文章，该文章按照黄金圈法则，详尽阐述了</p><ul><li>What：什么是知识管理系统？</li><li>Why：为什么要构建一套知识管理系统？</li><li>How：如何构建我们的知识管理系统？</li></ul><img width="360" src="https://files.sunguoqi.com/images/202311250109543.webp"><h2 id="在人工智能时代谋生存"><a href="#在人工智能时代谋生存" class="headerlink" title="在人工智能时代谋生存"></a>在人工智能时代谋生存</h2><p>近期，随着 chatGPT 的爆火，人工智能再次引起人们的广泛关注。</p><p>人工智能会取代人类嘛？</p><p><img src="https://files.sunguoqi.com/images/202311250112211.webp"></p><p>和人类学习行为类似，机器学习也同样遵循<code>输入信息</code>——<code>处理信息</code>——<code>输出信息</code>这套最简单的逻辑</p><p>但和人类不同的是，计算机可以存储海量的信息，而人类永远无法做到这一点。</p><p>我们不禁好奇，计算机是如何存储以及管理海量信息的？</p><p>抛开机器的物理属性，我们从逻辑层面来思考这个问题。</p><p>学过《数据结构》这门课程的同学肯定会对下面这张图比较熟悉。</p><img width="200" src="https://files.sunguoqi.com/images/202311250101788.webp"><p>是的，这是常规链表中的一个结点。</p><p>值得大家注意的是，该结点不仅包含一个数据域，还包含一个指针域。</p><p>因为数据往往并不是孤立存在的。</p><p>如果我们以线性的方式将数据组织起来，它会变成下面这个样子。</p><p><img src="https://files.sunguoqi.com/images/202311250102444.webp"></p><p>在现实生活中，当我们遇到一个非常复杂的问题时，我们通常会将其拆分成若干个子问题进行分析。</p><p>数据也是如此，它应该具备相应的层级。</p><p><img src="https://files.sunguoqi.com/images/202311250109107.webp"></p><p>虽然我们对问题进行了拆分，但其子问题也很可能相互关联，所以在层级的基础上，我们还应保障子问题的关联性。</p><img width="500" src="https://files.sunguoqi.com/images/202311250113437.webp"><p>将海量信息关联在一起，看似无序，实则有序，计算机对信息管理的方式远远超过人类。</p><p>在存储信息这一层面，人类永远无法战胜机器，但或许我们根本没必要战胜。</p><p>我们应该清楚的认识到，人脑擅长的是思考和建立连接，而并非存储。</p><p>我们的大脑更像是一个 CPU，而非硬盘。而“第二大脑”的存在就像是给人脑外接了一个硬盘。</p><p>在大数据与人工智能时代，在人脑和人工智能较量的时代，或许还存在一个中间态，那就是<code>人脑+第二大脑</code></p><h2 id="小孙同学-の-第二大脑"><a href="#小孙同学-の-第二大脑" class="headerlink" title="小孙同学 の 第二大脑"></a>小孙同学 の 第二大脑</h2><p>站点：<a href="https://brain.sunguoqi.com/">https://brain.sunguoqi.com/</a></p><p>源码：<a href="https://github.com/sun0225SUN/Brain">https://github.com/sun0225SUN/Brain</a></p><p><img src="https://files.sunguoqi.com/images/202311250103611.webp"></p><p><code>2023.03.24</code>，我搭建了该网站，日后，它会不断更新我的所学及产出。</p><p>从无序到有序，从碎片化到结构化，从输入到输出，当知识完整的经过了你的大脑，那我想他会永远属于你！</p>]]></content>
       
       
       <categories>
@@ -103,13 +103,13 @@
       
         <tags>
             
-            <tag> 22岁 </tag>
-            
-            <tag> 生日 </tag>
-            
             <tag> 生活 </tag>
             
             <tag> 感悟 </tag>
+            
+            <tag> 22岁 </tag>
+            
+            <tag> 生日 </tag>
             
         </tags>
       
@@ -281,11 +281,11 @@
       
         <tags>
             
-            <tag> 生日 </tag>
-            
             <tag> 生活 </tag>
             
             <tag> 感悟 </tag>
+            
+            <tag> 生日 </tag>
             
             <tag> 21岁 </tag>
             
