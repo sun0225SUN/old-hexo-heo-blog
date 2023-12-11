@@ -6,7 +6,7 @@
 }
 
 /* 首行缩进 */
-#article-container p {
+#article-container > p {
   text-indent: 2em;
 }
 
@@ -28,10 +28,6 @@
 /* 信封圆角 */
 #envelope img {
   border-radius: 0;
-}
-
-#article-container > blockquote > p {
-  text-indent: 0;
 }
 
 @media screen and (max-width: 768px) {
@@ -60,36 +56,47 @@
   .author-content-item .card-content .banner-button-group .banner-button svg {
     background: transparent;
   }
-}
+  #about-page
+    > div:nth-child(7)
+    > div.about-statistic.author-content-item
+    > div
+    > div.banner-button-group
+    > a
+    > i {
+    background: transparent;
+  }
 
-#about-page > div:nth-child(7) > div.about-statistic.author-content-item > div > div.banner-button-group > a > i {
-  background: transparent;
-}
-
-#about-page > div:nth-child(11) > div.author-content-item.like-music > div > div.banner-button-group > a > i{
-  background: transparent;
+  #about-page
+    > div:nth-child(11)
+    > div.author-content-item.like-music
+    > div
+    > div.banner-button-group
+    > a
+    > i {
+    background: transparent;
+  }
 }
 
 #album .author-content.author-content-item {
   background-size: 100%;
   animation: "";
   background: url(https://files.sunguoqi.com/images/202311261523905.webp) left
-    28% / cover no-repeat;
+    42% / cover no-repeat;
 }
 
 
-.author-content-item.game-yuanshen::after{
+.author-content-item.game-yuanshen::after {
   /* -webkit-box-shadow: none; */
-  -webkit-box-shadow: 0 -69px 203px 11px #000000 inset
+  -webkit-box-shadow: 0 -69px 203px 11px #000000 inset;
 }
-#about-page .about-statistic::after{
-  -webkit-box-shadow: 0 -69px 203px 11px #000000 inset
+#about-page .about-statistic::after {
+  -webkit-box-shadow: 0 -69px 203px 11px #000000 inset;
 }
-.author-content-item.like-music::after{
+.author-content-item.like-music::after {
   box-shadow: none;
 }
 
-.reward-list-item .reward-list-item-money{
+.reward-list-item .reward-list-item-money {
   background: #f2b94b;
 }
 
