@@ -1,13 +1,49 @@
+/* --- 文章页 --- */
+
+// 首行缩进
+#article-container > p {
+  text-indent: 2em;
+}
+
+/* --- 留言板 --- */
+
+// 信封标题
+.pace-done .page-title {
+  display: none;
+}
+
+// 图片圆角
+#envelope img {
+  border-radius: 0;
+}
+
+ /* --- 相册 --- */
+
+// 详情不显示顶部
+#album_detail > div {
+  display: none;
+}
+
+// 布局调整
+#album_detail{
+  margin-top: -2rem;
+}
+
+// 深色模式下无滤镜
+[data-theme="dark"] #album_detail img {
+  filter: blur(0) brightness(1) !important;
+}
+
+// 浅色模式下无滤镜
+[data-theme="light"] #album_detail img {
+  filter: blur(0) brightness(1);
+}
+
 /* --- 通用样式 --- */
 
 /* Banner 样式 */
 .topGroup .todayCard::after {
   box-shadow: none;
-}
-
-/* 首行缩进 */
-#article-container > p {
-  text-indent: 2em;
 }
 
 /* 按钮修复 */
@@ -20,15 +56,7 @@
   width: auto;
 }
 
-/* 信封标题 */
-.pace-done .page-title {
-  display: none;
-}
 
-/* 信封圆角 */
-#envelope img {
-  border-radius: 0;
-}
 
 @media screen and (max-width: 768px) {
   #essay_page
@@ -84,7 +112,6 @@
     42% / cover no-repeat;
 }
 
-
 .author-content-item.game-yuanshen::after {
   /* -webkit-box-shadow: none; */
   -webkit-box-shadow: 0 -69px 203px 11px #000000 inset;
@@ -110,5 +137,3 @@
 [data-theme="dark"] #random-banner {
   background: none;
 }
-
-/* --- 浅色模式 --- */
