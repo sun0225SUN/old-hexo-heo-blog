@@ -1,40 +1,40 @@
 /* --- 文章页 --- */
 
-// 首行缩进
+/* 首行缩进 */
 #article-container > p {
   text-indent: 2em;
 }
 
 /* --- 留言板 --- */
 
-// 信封标题
+/* 信封标题 */
 .pace-done .page-title {
   display: none;
 }
 
-// 图片圆角
+/* 图片圆角 */
 #envelope img {
   border-radius: 0;
 }
 
  /* --- 相册 --- */
 
-// 详情不显示顶部
+/* 详情不显示顶部 */
 #album_detail > div {
   display: none;
 }
 
-// 布局调整
+/* 布局调整 */
 #album_detail{
   margin-top: -2rem;
 }
 
-// 深色模式下无滤镜
+/* 深色模式下无滤镜 */
 [data-theme="dark"] #album_detail img {
   filter: blur(0) brightness(1) !important;
 }
 
-// 浅色模式下无滤镜
+/* 浅色模式下无滤镜 */
 [data-theme="light"] #album_detail img {
   filter: blur(0) brightness(1);
 }
