@@ -47,11 +47,11 @@
       
         <tags>
             
-            <tag> 教程 </tag>
-            
             <tag> 美化 </tag>
             
             <tag> 终端 </tag>
+            
+            <tag> 教程 </tag>
             
         </tags>
       
@@ -134,11 +134,11 @@
       
         <tags>
             
-            <tag> GitHub </tag>
+            <tag> 美化 </tag>
             
             <tag> 教程 </tag>
             
-            <tag> 美化 </tag>
+            <tag> GitHub </tag>
             
             <tag> 热门 </tag>
             
@@ -169,9 +169,9 @@
             
             <tag> 教程 </tag>
             
-            <tag> 热门 </tag>
-            
             <tag> 开发 </tag>
+            
+            <tag> 热门 </tag>
             
             <tag> AI </tag>
             
@@ -254,9 +254,9 @@
       
         <tags>
             
-            <tag> 开发 </tag>
-            
             <tag> Flask </tag>
+            
+            <tag> 开发 </tag>
             
         </tags>
       
