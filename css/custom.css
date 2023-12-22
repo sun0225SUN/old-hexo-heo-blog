@@ -219,7 +219,7 @@ div#danmuBtn button {
     width: 30px;
     margin: 0 5px 0 0 !important;
     border-radius: 50% !important;
-    margin-right: 2px;
+    margin-right: 2px !important;
 }
 
 .default-style p {
