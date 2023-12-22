@@ -137,3 +137,7 @@
 [data-theme="dark"] #random-banner {
   background: none;
 }
+
+[data-theme='dark'] #footer-wrap img {
+  filter: blur(0) brightness(1);
+}
