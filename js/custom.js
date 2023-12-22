@@ -13,7 +13,7 @@ function danmu() {
   if (data) Danmaku.batchSend(data, true);
   else {
     let ls = []
-    fetch('https://twikoo-netlify.sunguoqi.com/', { // 此处替换成自己的twikoo地址
+    fetch('https://sunguoqi-twikoo.netlify.app', { // 此处替换成自己的twikoo地址
       method: "POST",
       body: JSON.stringify({
         "event": "GET_RECENT_COMMENTS",
