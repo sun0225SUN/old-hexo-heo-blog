@@ -13,15 +13,16 @@ function danmu() {
   if (data) Danmaku.batchSend(data, true);
   else {
     let ls = []
-    fetch('https://twikoo-netlify.sunguoqi.com/', { // 此处替换成自己的twikoo地址
+    fetch('https://twikoo-netlify.sunguoqi.com/', {
       method: "POST",
+      mode: 'no-cors',
+      // credentials: 'include',
       body: JSON.stringify({
         "event": "GET_RECENT_COMMENTS",
         "includeReply": false,
-        "pageSize": 100
+        "pageSize": 100,
       }),
-      headers: { 'Content-Type': 'application/json' },
-      mode: 'cors'
+      headers: { 'Content-Type': 'application/json' }
     }).then(res => res.json()).then(({ data }) => {
       data.forEach(i => {
         if (i.avatar == undefined) i.avatar = 'https://cravatar.cn/avatar/d615d5793929e8c7d70eab5f00f7f5f1?d=mp'
