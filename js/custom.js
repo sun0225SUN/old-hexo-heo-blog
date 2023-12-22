@@ -1,6 +1,10 @@
 function danmu() {
   if (location.pathname != '/comments/' || document.body.clientWidth < 768) return //判断是否是留言板页面
   console.log(1);
+  var commentBarrageConfig = {
+    twikooUrl: GLOBAL_CONFIG.twikooEnvId,
+    accessToken: GLOBAL_CONFIG.commentBarrageConfig.accessToken,
+  };
   const Danmaku = new EasyDanmaku({
     page: '/comments/', // 即留言板地址
     el: '#danmu', //弹幕挂载节点
@@ -13,14 +17,13 @@ function danmu() {
   if (data) Danmaku.batchSend(data, true);
   else {
     let ls = []
-    fetch('https://twikoo-netlify.sunguoqi.com/', {
+    fetch(commentBarrageConfig.twikooUrl, {
       method: "POST",
-      mode: 'no-cors',
-      // credentials: 'include',
       body: JSON.stringify({
         "event": "GET_RECENT_COMMENTS",
         "includeReply": false,
         "pageSize": 100,
+        "commentBarrageConfig.accessToken": commentBarrageConfig.accessToken,
       }),
       headers: { 'Content-Type': 'application/json' }
     }).then(res => res.json()).then(({ data }) => {
