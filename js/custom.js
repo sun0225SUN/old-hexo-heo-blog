@@ -1,6 +1,6 @@
 function danmu() {
   if (location.pathname != '/comments/' || document.body.clientWidth < 768) return //判断是否是留言板页面
-  console.log(1);
+  console.log("弹幕来袭");
   var commentBarrageConfig = {
     twikooUrl: GLOBAL_CONFIG.twikooEnvId,
     accessToken: GLOBAL_CONFIG.commentBarrageConfig.accessToken,
