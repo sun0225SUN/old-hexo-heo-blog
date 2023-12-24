@@ -145,3 +145,7 @@
 .flink .site-card-avatar{
   padding: 4px 8px 0 0;
 }
+
+#twikoo code{
+  padding: 0;
+}
