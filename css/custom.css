@@ -149,3 +149,10 @@
 #twikoo code{
   padding: 0;
 }
+
+.amap-logo{
+  display: none !important;//去掉高德地图 logo
+}
+.amap-copyright {
+  opacity:0;//去掉高德的版本号
+}
