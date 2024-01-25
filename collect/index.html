@@ -5,7 +5,7 @@
   diytitle: {"enable":true,"leaveTitle":"w(ﾟДﾟ)w 宝～请不要离开！","backTitle":"♪(^∇^*) 欢迎回来～我爱你！"},
   LA51: {"enable":true,"ck":"3F6cJC4GAXse6laY","LingQueMonitorID":null},
   greetingBox: undefined,
-  twikooEnvId: 'https://twikoo-sun.sunguoqi.com/.netlify/functions/twikoo',
+  twikooEnvId: 'https://twikoo-netlify.sunguoqi.com/.netlify/functions/twikoo',
   commentBarrageConfig:{"enable":true,"maxBarrage":1,"barrageTime":4000,"accessToken":"208a201671d64a7fa1ffd95d97b93d2b","mailMd5":"a4066de3e872d474ad577fc50af1c5bf"},
   music_page_default: "nav_music",
   root: '/',
@@ -170,9 +170,9 @@
         }
       }
       detectApple()
-    })(window)</script><link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'"><script src="https://webapi.amap.com/loader.js"></script><meta name="generator" content="Hexo 7.0.0">
+    })(window)</script><link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'"><script src="https://webapi.amap.com/loader.js"></script><meta name="generator" content="Hexo 7.0.0"><link rel="alternate" href="/rss.xml" title="小孙同学" type="application/rss+xml">
+
 <style>.github-emoji { position: relative; display: inline-block; width: 1.2em; min-height: 1.2em; overflow: hidden; vertical-align: top; color: transparent; }  .github-emoji > span { position: relative; z-index: 10; }  .github-emoji img, .github-emoji .fancybox { margin: 0 !important; padding: 0 !important; border: none !important; outline: none !important; text-decoration: none !important; user-select: none !important; cursor: auto !important; }  .github-emoji img { height: 1.2em !important; width: 1.2em !important; position: absolute !important; left: 50% !important; top: 50% !important; transform: translate(-50%, -50%) !important; user-select: none !important; cursor: auto !important; } .github-emoji-fallback { color: inherit; } .github-emoji-fallback img { opacity: 0 !important; }</style>
-<link rel="alternate" href="/rss.xml" title="小孙同学" type="application/rss+xml">
 </head><body data-type="anzhiyu"><div id="web_bg"></div><div id="an_music_bg"></div><div id="loading-box" onclick="document.getElementById(&quot;loading-box&quot;).classList.add(&quot;loaded&quot;)"><div class="loading-bg"><img class="loading-img nolazyload" alt="加载头像" src="/images/avatar.jpg"/><div class="loading-image-dot"></div></div></div><script>const preloader = {
   endLoading: () => {
     document.getElementById('loading-box').classList.add("loaded");
@@ -256,7 +256,7 @@ document.addEventListener('DOMContentLoaded', panguInit)</script><script async s
   const init = () => {
     twikoo.init(Object.assign({
       el: '#twikoo-wrap',
-      envId: 'https://twikoo-sun.sunguoqi.com/.netlify/functions/twikoo',
+      envId: 'https://twikoo-netlify.sunguoqi.com/.netlify/functions/twikoo',
       region: '',
       onCommentLoaded: () => {
         anzhiyu.loadLightbox(document.querySelectorAll('#twikoo .tk-content img:not(.tk-owo-emotion)'))
@@ -273,7 +273,7 @@ document.addEventListener('DOMContentLoaded', panguInit)</script><script async s
     const countELement = document.getElementById('twikoo-count')
     if(!countELement) return
     twikoo.getCommentsCount({
-      envId: 'https://twikoo-sun.sunguoqi.com/.netlify/functions/twikoo',
+      envId: 'https://twikoo-netlify.sunguoqi.com/.netlify/functions/twikoo',
       region: '',
       urls: [window.location.pathname],
       includeReply: false
@@ -315,7 +315,7 @@ document.addEventListener('DOMContentLoaded', panguInit)</script><script async s
   const getComment = () => {
     const runTwikoo = () => {
       twikoo.getRecentComments({
-        envId: 'https://twikoo-sun.sunguoqi.com/.netlify/functions/twikoo',
+        envId: 'https://twikoo-netlify.sunguoqi.com/.netlify/functions/twikoo',
         region: '',
         pageSize: 6,
         includeReply: true
