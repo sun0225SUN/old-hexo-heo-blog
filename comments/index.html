@@ -5,7 +5,7 @@
   diytitle: {"enable":true,"leaveTitle":"w(ﾟДﾟ)w 宝～请不要离开！","backTitle":"♪(^∇^*) 欢迎回来～我爱你！"},
   LA51: {"enable":true,"ck":"3F6cJC4GAXse6laY","LingQueMonitorID":null},
   greetingBox: undefined,
-  twikooEnvId: 'https://twikoo-sun.netlify.app/.netlify/functions/twikoo',
+  twikooEnvId: 'https://myblog-comments.netlify.app/.netlify/functions/twikoo',
   commentBarrageConfig:{"enable":true,"maxBarrage":1,"barrageTime":4000,"accessToken":"208a201671d64a7fa1ffd95d97b93d2b","mailMd5":"a4066de3e872d474ad577fc50af1c5bf"},
   music_page_default: "nav_music",
   root: '/',
@@ -336,7 +336,7 @@ document.addEventListener('DOMContentLoaded', panguInit)</script><script async s
   const init = () => {
     twikoo.init(Object.assign({
       el: '#twikoo-wrap',
-      envId: 'https://twikoo-sun.netlify.app/.netlify/functions/twikoo',
+      envId: 'https://myblog-comments.netlify.app/.netlify/functions/twikoo',
       region: '',
       onCommentLoaded: () => {
         anzhiyu.loadLightbox(document.querySelectorAll('#twikoo .tk-content img:not(.tk-owo-emotion)'))
@@ -353,7 +353,7 @@ document.addEventListener('DOMContentLoaded', panguInit)</script><script async s
     const countELement = document.getElementById('twikoo-count')
     if(!countELement) return
     twikoo.getCommentsCount({
-      envId: 'https://twikoo-sun.netlify.app/.netlify/functions/twikoo',
+      envId: 'https://myblog-comments.netlify.app/.netlify/functions/twikoo',
       region: '',
       urls: [window.location.pathname],
       includeReply: false
@@ -395,7 +395,7 @@ document.addEventListener('DOMContentLoaded', panguInit)</script><script async s
   const getComment = () => {
     const runTwikoo = () => {
       twikoo.getRecentComments({
-        envId: 'https://twikoo-sun.netlify.app/.netlify/functions/twikoo',
+        envId: 'https://myblog-comments.netlify.app/.netlify/functions/twikoo',
         region: '',
         pageSize: 6,
         includeReply: true
