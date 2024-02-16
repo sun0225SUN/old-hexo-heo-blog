@@ -57,6 +57,10 @@
 }
 
 
+#article-container img {
+  display: inline-block;
+}
+
 
 @media screen and (max-width: 768px) {
   #essay_page
