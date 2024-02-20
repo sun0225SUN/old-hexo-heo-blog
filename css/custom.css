@@ -57,11 +57,6 @@
 }
 
 
-#article-container img {
-  display: inline-block;
-}
-
-
 @media screen and (max-width: 768px) {
   #essay_page
     > div.author-content.author-content-item.essayPage.single
@@ -159,4 +154,8 @@
 }
 .amap-copyright {
   opacity:0;//去掉高德的版本号
+}
+
+#article-container img{
+  margin-bottom: 10px !important;
 }
